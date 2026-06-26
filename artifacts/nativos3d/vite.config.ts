@@ -4,9 +4,15 @@ import tailwindcss from "@tailwindcss/vite";
 import path from "path";
 
 const isReplit = process.env.REPL_ID !== undefined;
+const isVercel = process.env.VERCEL !== undefined;
 
 const port = Number(process.env.PORT) || 5173;
 const basePath = process.env.BASE_PATH || "/";
+
+// Replit expects dist/public; Vercel expects dist at the root of the artifact
+const outDir = isVercel
+  ? path.resolve(import.meta.dirname, "dist")
+  : path.resolve(import.meta.dirname, "dist/public");
 
 export default defineConfig({
   base: basePath,
@@ -35,7 +41,7 @@ export default defineConfig({
   },
   root: path.resolve(import.meta.dirname),
   build: {
-    outDir: path.resolve(import.meta.dirname, "dist/public"),
+    outDir,
     emptyOutDir: true,
   },
   server: {
