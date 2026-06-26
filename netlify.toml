@@ -1,0 +1,12 @@
+[build]
+  command   = "pnpm --filter @workspace/nativos3d run build"
+  publish   = "artifacts/nativos3d/dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# SPA fallback — all routes serve index.html
+[[redirects]]
+  from   = "/*"
+  to     = "/index.html"
+  status = 200

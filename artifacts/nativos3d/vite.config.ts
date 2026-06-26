@@ -4,13 +4,14 @@ import tailwindcss from "@tailwindcss/vite";
 import path from "path";
 
 const isReplit = process.env.REPL_ID !== undefined;
-const isVercel = process.env.VERCEL !== undefined;
+const isExternalDeploy =
+  process.env.VERCEL !== undefined || process.env.NETLIFY !== undefined;
 
 const port = Number(process.env.PORT) || 5173;
 const basePath = process.env.BASE_PATH || "/";
 
-// Replit expects dist/public; Vercel expects dist at the root of the artifact
-const outDir = isVercel
+// Replit expects dist/public; Vercel/Netlify expect dist at artifact root
+const outDir = isExternalDeploy
   ? path.resolve(import.meta.dirname, "dist")
   : path.resolve(import.meta.dirname, "dist/public");
 
