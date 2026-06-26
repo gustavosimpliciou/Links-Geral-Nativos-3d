@@ -3,7 +3,7 @@ import { motion, useScroll, useTransform, AnimatePresence } from "framer-motion"
 import { FaInstagram, FaTiktok, FaYoutube, FaStore, FaMobileAlt, FaTimes } from "react-icons/fa";
 import { SiShopee, SiMercadopago } from "react-icons/si";
 import { ChevronRight } from "lucide-react";
-import logo from "@assets/ChatGPT_Image_17_de_jun._de_2026,_00_40_58_1782439087983.png";
+import logo from "./assets/logo.png";
 
 export default function App() {
   const { scrollY } = useScroll();

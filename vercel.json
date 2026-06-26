@@ -1,0 +1,6 @@
+{
+  "buildCommand": "pnpm --filter @workspace/nativos3d run build",
+  "outputDirectory": "artifacts/nativos3d/dist/public",
+  "installCommand": "pnpm install",
+  "framework": null
+}
