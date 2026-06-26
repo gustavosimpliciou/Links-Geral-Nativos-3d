@@ -1,0 +1,312 @@
+Crie uma Landing Page de Links (Link in Bio) premium para a marca Nativos 3D, seguindo fielmente a identidade visual da imagem de referência enviada.
+
+A página deve transmitir uma sensação de produto premium, design moderno, tecnologia, decoração e criatividade, utilizando exatamente a mesma linguagem visual.
+
+IDENTIDADE VISUAL
+
+A página deve seguir rigorosamente o estilo da imagem.
+
+Paleta de cores
+
+Cor principal:
+
+Laranja vibrante (#ff6500)
+
+Cores secundárias:
+
+Preto profundo (#090909)
+Preto levemente amarronzado (#111111)
+Branco puro (#FFFFFF)
+
+Cor para detalhes:
+
+Cinza claro (#d9d9d9)
+
+Nunca utilizar cores fortes diferentes do laranja.
+
+Todo destaque deve utilizar o laranja.
+
+Estilo
+
+Design minimalista
+
+Visual premium
+
+Dark Theme
+
+Alto contraste
+
+Visual tecnológico
+
+Sensação de marca consolidada
+
+Muito espaço entre elementos
+
+Bastante respiro
+
+Sem excesso de informações.
+
+Tipografia
+
+Título:
+
+Fonte estilo Bebas Neue ou Anton
+
+Maiúsculas
+
+Muito grande
+
+Peso Extra Bold
+
+Subtítulos:
+
+Fonte condensada
+
+Espaçamento entre letras
+
+Todo em caixa alta.
+
+Textos menores:
+
+Fonte moderna como Poppins ou Inter.
+
+Fundo
+
+Fundo totalmente escuro.
+
+Adicionar um gradiente muito suave:
+
+Preto
+
+↓
+
+Marrom extremamente escuro
+
+↓
+
+Preto novamente
+
+Adicionar uma iluminação radial laranja extremamente discreta atrás do conteúdo principal.
+
+Sem texturas exageradas.
+
+Sem poluição visual.
+
+Header
+
+No topo colocar:
+
+Logo Nativos 3D
+
+Ao lado:
+
+NATIVOS 3D
+
+No canto superior direito:
+
+Ícones pequenos:
+
+Instagram
+
+TikTok
+
+Shopee
+
+Mercado Livre
+
+Todos em branco.
+
+Ao passar o mouse:
+
+ficam laranja.
+
+Conteúdo principal
+
+Centralizado verticalmente.
+
+Primeiro uma pequena etiqueta.
+
+Exemplo:
+
+PRODUTOS PREMIUM
+
+com borda laranja.
+
+Depois um título enorme.
+
+OBJETOS QUE
+
+TRANSFORMAM
+
+ESPAÇOS
+
+A palavra
+
+TRANSFORMAM
+
+fica em laranja.
+
+As demais em branco.
+
+Exatamente no estilo da imagem.
+
+Subtítulo
+
+Logo abaixo:
+
+Arte que você toca.
+
+Design que fica.
+
+Centralizado.
+
+Letras espaçadas.
+
+Cor cinza claro.
+
+Área dos Botões
+
+Logo abaixo criar quatro grandes botões premium.
+
+Cada botão ocupa praticamente toda largura da página.
+
+Altura aproximada:
+
+70px
+
+Bordas levemente arredondadas.
+
+Ícone à esquerda.
+
+Texto centralizado.
+
+Seta discreta à direita.
+
+Hover extremamente elegante.
+
+Ao passar o mouse:
+
+o botão sobe alguns pixels
+
+fica mais iluminado
+
+ganha sombra laranja
+
+transição suave.
+
+Botão 1
+
+🛒 Loja Virtual
+
+Texto menor:
+
+Conheça todos os nossos produtos exclusivos.
+
+Botão 2
+
+🛍 Mercado Livre
+
+Texto menor:
+
+Compre com segurança pelo Mercado Livre.
+
+Botão 3
+
+🛒 Shopee
+
+Texto menor:
+
+Ofertas especiais e envio rápido.
+
+Botão 4
+
+📱 Redes Sociais
+
+Texto menor:
+
+Instagram + TikTok
+
+Rodapé
+
+Na parte inferior colocar:
+
+"Nativos 3D"
+
+Objetos impressos em 3D que transformam ambientes.
+
+Embaixo:
+
+© 2026 Nativos 3D
+
+Animações
+
+Toda página deve possuir animações suaves.
+
+Fade In ao carregar.
+
+Os botões aparecem um após outro.
+
+Hover elegante.
+
+Leve efeito Parallax no fundo.
+
+Transições com 300ms.
+
+Responsividade
+
+A página deve ser Mobile First.
+
+Também funcionar perfeitamente em:
+
+Desktop
+
+Notebook
+
+Tablet
+
+iPhone
+
+Android
+
+Estrutura
+
+Todo conteúdo deve ficar centralizado.
+
+Nunca ultrapassar 500px de largura.
+
+Os botões devem ocupar praticamente toda largura disponível.
+
+Espaçamento perfeito entre todos os elementos.
+
+SEO
+
+Adicionar:
+
+Title
+
+"Nativos 3D | Links Oficiais"
+
+Description
+
+"Conheça a loja oficial da Nativos 3D. Acesse nosso site, Mercado Livre, Shopee, Instagram e TikTok."
+
+Performance
+
+Código limpo.
+
+Sem bibliotecas pesadas.
+
+Carregamento rápido.
+
+Otimizado para Core Web Vitals.
+
+Objetivo
+
+A página deve transmitir imediatamente a sensação de uma marca premium de impressão 3D, com visual semelhante ao da página principal da Nativos 3D, utilizando o mesmo conceito visual da imagem enviada. O visitante deve identificar instantaneamente a identidade da marca e encontrar facilmente os acessos para:
+
+🛒 Loja Virtual (Site Nativos 3D)
+🛍 Mercado Livre
+🛒 Shopee
+📱 Redes Sociais (Instagram e TikTok)
+
+O resultado final deve parecer uma Linktree personalizada de alto padrão, com aparência sofisticada, minimalista, moderna e altamente profissional, totalmente alinhada à identidade visual da Nativos 3D.
